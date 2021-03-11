@@ -400,6 +400,13 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>Boise State maintains temporary, online coding environments at:
+  <ul>
+    <li><a href="https://codelab.boisestate.edu/">codelab</a></li>
+    <li><a href="https://jupyter.boisestate.edu/">jupyter</a></li>
+   </ul>
+   Instructors may point you to these resources if you have trouble installing some software.
+ </p>
 
 {% comment %}
 For online workshops, the section below provides:
