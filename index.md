@@ -384,6 +384,8 @@ please preview your site before committing, and make sure to run
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+<p>For instructions on setting up for the Julia workshop, please go <a href="https://gitlab.com/Jdbeck66/programming-with-julia/-/blob/master/Presentation/setup.md">here</a>.
+</p>
 <p>Boise State maintains temporary, online coding environments at:
   <ul>
     <li><a href="https://codelab.boisestate.edu/">codelab</a></li>
