@@ -13,7 +13,7 @@ humandate: "Mar 29-31, 2021"    # human-readable dates for the workshop (e.g., "
 humantime: "8:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-31        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Brian Jackson", "Jim Beck", "Rainier Barrett", "Kendra Kaiser"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Brian Jackson", "Jim Beck", "Rainier Barrett", "Kendra Kaiser", "Joe Champion"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Mike Ramshaw", "Kyle Shannon", "Jenny Fothergill"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["researchcomputing@boisestate.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  https://etherpad.boisestate.edu/2021-03-29-rc-days # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
